@@ -1,0 +1,6 @@
+{
+  "name": "Global Currency Tracker",
+  "description": "Real-time exchange rates for all circulating currencies with historical graphs, multi-currency converter, list views, and AI analyst insights built with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
